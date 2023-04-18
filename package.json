@@ -1,0 +1,17 @@
+{
+    "name": "fontgen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./gulpfile.js",
+    "keywords": [],
+    "author": "James Tetley tetloose.com",
+    "license": "ISC",
+    "private": true,
+    "scripts": {
+        "gen": "gulp"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-fontgen": "^0.2.5"
+    }
+}
